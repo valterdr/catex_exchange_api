@@ -1,0 +1,4 @@
+https://www.catex.io/api/v1/markets
+https://www.catex.io//api/v1/orderbook?market=ETH_BTC
+https://www.catex.io/api/v1/trades?market=ETH_BTC
+https://www.catex.io/api/v1/ticker?market=ETH_BTC
